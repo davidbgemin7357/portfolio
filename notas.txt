@@ -4,3 +4,8 @@ npm install react-icons --save
 carrusel:
 swiperjs.com 
 npm i swiper
+
+
+envio de formulario por correo:
+https://dashboard.emailjs.com/
+npm i emailjs-com --save
